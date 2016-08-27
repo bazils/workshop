@@ -1,1 +1,1 @@
-# workshop
+# workshop full stack javascript
